@@ -1,0 +1,12 @@
+# Welcome to GitHub Basics Workshop!
+
+Hey friends!
+
+I'm thrilled to have you all here today for this hands-on workshop on GitHub basics.
+
+Feel free to ask questions at any point - this is a friendly space for learning and experimenting.
+
+Let's dive in and start our GitHub journey together!
+
+Cheers,
+Tochukwu
